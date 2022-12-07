@@ -1,0 +1,10 @@
+Sistema de Login
+
+    1 passo: criar um banco de dados
+        comando para criar database: CREATE DATABASE usuarios;
+    2 passo: criar conexão com o banco de dados
+        dados = {
+            database:'gelso267_CLIENTES',
+            table:'usuarios',
+        }
+    3 passo: 
